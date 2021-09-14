@@ -5,7 +5,8 @@ A simple url shortener that made with python.
 ## Developer
 Seeun (* Nickname)
 ## Example
-### Simple Code
+### Url shortener
+#### Simple Code
 ```py
 from urltool import shortener
 
@@ -14,7 +15,7 @@ result = data.Generate()
 
 print(f'URL: {result}')
 ```
-### Discord Bot
+#### Discord Bot
 ```py
 from urltool import shortener
 from discord.ext import commands
@@ -36,4 +37,11 @@ async def 단축(ctx, *, link):
 
 bot.run('token')
 ```
+### Url Safe Scanner
+#### Simple
+Soontm
+#### Discord Bot
+Soontm
+
+
 That's it! So easy!
