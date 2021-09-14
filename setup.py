@@ -2,15 +2,15 @@ from setuptools import setup, find_packages
 
 setup(name='urltool',
 
-version='1.1.0A',
+version='1.1.0',
 
-description='A simple url shortener that made with python.',
+description='A simple url_tools that made with python.',
 
 author='Seeun Kim',
 
 author_email='seeun0917@naver.com',
 
-url='https://dev.kimseeun.site',
+url='https://github.com/seeundev/urltool',
 
 license='MIT',
 
