@@ -1,1 +1,1 @@
-__all__ = ['shortener']
+__all__ = ['shortener', 'scanner']
