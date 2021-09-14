@@ -46,6 +46,5 @@ urltool/scanner is a simple url safe-scanner that powered by lrl.kr api.
 Soontm
 #### Discord Bot
 Soontm
-
-
-That's it! So easy!
+## Support
+Please send DM to Nickname#1234 or send message in https://discord.gg/VdxBGuJpjk (Seeun Lab).
