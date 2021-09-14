@@ -6,6 +6,8 @@ A simple url shortener that made with python.
 Seeun (* Nickname)
 ## Example
 ### Url shortener
+#### Introduce
+urltool/shortener is a simple url shortener that powered by lrl.kr api.
 #### Simple Code
 ```py
 from urltool import shortener
@@ -38,6 +40,8 @@ async def 단축(ctx, *, link):
 bot.run('token')
 ```
 ### Url Safe Scanner
+#### Introduce
+urltool/scanner is a simple url safe-scanner that powered by lrl.kr api.
 #### Simple
 Soontm
 #### Discord Bot
