@@ -12,4 +12,4 @@ class Scanner:
       data = url.read()
      load_data = json.loads(data.decode('utf-8'))
      result = load_data.get("safe")
-     return f"{safe}"
+     return f"{result}"
